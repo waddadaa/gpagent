@@ -1,0 +1,14 @@
+<RCC>
+    <qresource>
+        <file>Qml.qmlproject</file>
+        <file>Qml/Constants.qml</file>
+        <file>Qml/EventListModel.qml</file>
+        <file>Qml/EventListSimulator.qml</file>
+        <file>Qml/qmldir</file>
+        <file>QmlContent/App.qml</file>
+        <file>QmlContent/Chat.qml</file>
+        <file>QmlContent/Settings.qml</file>
+        <file>QmlContent/Sidebar.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

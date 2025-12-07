@@ -1,0 +1,56 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Qt Creator
+.qtcreator/
+*.user
+*.user.*
+*.autosave
+.qmake.stash
+CMakeLists.txt.user*
+
+# Claude Code
+.claude/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*_autogen/
+compile_commands.json
+
+# Package files
+*.tar.gz
+*.zip
+
+# Runtime data (should be in ~/.gpagent anyway)
+*.log
+*.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# resouces
+resorces/
