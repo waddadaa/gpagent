@@ -22,7 +22,7 @@ A native C++/Qt AI agent with tool use, multi-provider LLM support, and self-imp
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gpagent.git
+git clone https://github.com/waddadaa/gpagent
 cd gpagent
 
 # Create build directory
